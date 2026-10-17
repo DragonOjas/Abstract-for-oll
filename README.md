@@ -37,4 +37,10 @@ The hardware which we used are listed below
 - We used 2 tyre 1 wheel caster setup to ensure we don't go overweight and also maintain a good amount of handling while being on the safer side
 
 # Coding Process
-We have uploaded our code to [GitHub](https://github.com/DragonOjas/ROBORACER), this allowed for seamless access even without our devices, which means we can access it from anywhere. This code granted us with a dedicated server which was hosted directly on the esp providing ease of use while maintaining the limits esp had
+We have uploaded our code to [GitHub](https://github.com/DragonOjas/ROBORACER), this allowed for seamless access even without our devices, which means we can access it from anywhere. This code granted us with a dedicated server which was hosted directly on the esp providing ease of use while maintaining the limits esp had. Beside having the code as open source we made sure to use a different network name and password privately when we uploaded the code to Arduino ide to ensure that no one else can gain control over our robot.
+
+# Conclusion
+At last, after making this robot we were introduced to various things like how to even use an esp properly and how not to use it. We got to know better about the grounding, as our motors didn't actually work until we connected the ground of the driver to that of the esp. It brought us closer as a team and as friends, we spent countless hours working and tinkering with the bot, all three of us had one thing in common which was *raw passion* for the completion of the robot. And this *raw passion* drived us crazy far in order to complete this roboracer we did all we could in our reach to build this and this is where we stand.
+
+**Thank you for reading the entire extract!**
+**The source code of this particular file can be found on [here]()** 
