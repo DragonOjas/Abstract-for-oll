@@ -28,9 +28,9 @@ The hardware which we used are listed below
 3. Buck converter
 - It helped us to power the esp while not frying it as we were giving it raw 12v power, the main work the buck converter served was to act like a fry protector and helped us to run the esp safely.
 4. Pack of 3, of Li-ion battery
-- We used 3 li-ion batteries to make sure we have ample of power to run all our components with a good maah.
-5. 2 bega motors
-- We used 2, 12v bega motors to run our racecar, we planned to use better motors but we were limited by the maximum volate limit so we kept it 12v to be on the safer side, the motors run seamlessly as we had the whole circuit in parallel, which provides with equal volatage throughout the circuit
+- We used 3 li-ion batteries to make sure we have ample of power to run all our components with a good mAh.
+5. 2 bga motors
+- We used 2, 12v bga motors to run our racecar, we planned to use better motors but we were limited by the maximum volate limit so we kept it 12v to be on the safer side, the motors run seamlessly as we had the whole circuit in parallel, which provides with equal volatage throughout the circuit
 6. A metal chasis
 - Our chasis is of metal, it weighed approx 500gm which became around 600gn when we added the other components, we had to also attach a peice of paper on top of the chasis, and above the paper we had glue gun or cardboard attached to ensure no short circuit occurs due to the metal chasis
 7. Wheel caster
