@@ -42,6 +42,6 @@ We have uploaded our code to [GitHub](https://github.com/DragonOjas/ROBORACER), 
 # Conclusion
 At last, after making this robot we were introduced to various things like how to even use an esp properly and how not to use it. We got to know better about the grounding, as our motors didn't actually work until we connected the ground of the driver to that of the esp. It brought us closer as a team and as friends, we spent countless hours working and tinkering with the bot, all three of us had one thing in common which was *raw passion* for the completion of the robot. And this *raw passion* drived us crazy far in order to complete this roboracer we did all we could in our reach to build this and this is where we stand.
 
-**Thank you for reading the entire extract!**
+**Thank you for reading the entire abstract!**
 **The source code of this particular file can be found on [here](https://github.com/DragonOjas/Abstract-for-oll/blob/jolever/README.md)** 
 **We hope you liked our project! :)**
