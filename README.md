@@ -21,9 +21,18 @@ Such a thing or anything good at all cannot exist without problems and faults, a
 The hardware which we used are listed below
 1. Motor Driver
 - It helped us in providing ample power to both the motors while making sure they don't explode and receive the signal well
-3. Esp 32 Dev-Kit v1
-- The main brain of our racecar, which helped us to make a server hosted directly on the esp which we connected with our phone for the controller, 
-4. Buck converter
-5. Pack of 3, of Li-ion battery
-6. 2 bega motors
-7. A metal chasis
+2. Esp 32 Dev-Kit v1
+- The main brain of our racecar, which helped us to make a server hosted directly on the esp which we connected with our phone for the controller, which gave us one of the best latency, approx 10-20ms.
+3. Buck converter
+- It helped us to power the esp while not frying it as we were giving it raw 12v power, the main work the buck converter served was to act like a fry protector and helped us to run the esp safely.
+4. Pack of 3, of Li-ion battery
+- We used 3 li-ion batteries to make sure we have ample of power to run all our components with a good maah.
+5. 2 bega motors
+- We used 2, 12v bega motors to run our racecar, we planned to use better motors but we were limited by the maximum volate limit so we kept it 12v to be on the safer side, the motors run seamlessly as we had the whole circuit in parallel, which provides with equal volatage throughout the circuit
+6. A metal chasis
+- Our chasis is of metal, it weighed approx 500gm which became around 600gn when we added the other components, we had to also attach a peice of paper on top of the chasis, and above the paper we had glue gun or cardboard attached to ensure no short circuit occurs due to the metal chasis
+7. Wheel caster
+- We used 2 tyre 1 wheel caster setup to ensure we don't go overweight and also maintain a good amount of handling while being on the safer side
+
+# Coding Process
+We have uploaded our code to [GitHub](https://github.com/DragonOjas/ROBORACER), this allowed for seamless access even without our devices, which means we can access it from anywhere. This code granted us with a dedicated server which was hosted directly on the esp providing ease of use while maintaining the limits esp had
