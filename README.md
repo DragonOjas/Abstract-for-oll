@@ -7,7 +7,7 @@ Team Name and Team ID: **[RoboRush]** and    **[TM-76ACFF84EC6]** respectively.
 2.	[Ojas Kumar and OLLR-A8700D9BF566]
 3.	[Jonathan William Cooper and OLLR-BE288DD2BF20]
  
-**Track: RoboRace**
+**Track:- RoboRace**
 
 
 # Technical overview
